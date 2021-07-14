@@ -8,7 +8,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
-      <h1 classname={styles.title}>Homepage</h1>
+      <h1 className={styles.title}>Homepage</h1>
       <p className={styles.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente in vel optio, exercitationem necessitatibus ad, sit laborum esse accusantium ducimus voluptates harum officia? Perspiciatis aliquam accusantium quas, magnam ea libero.</p>
       <p className={styles.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente in vel optio, exercitationem necessitatibus ad, sit laborum esse accusantium ducimus voluptates harum officia? Perspiciatis aliquam accusantium quas, magnam ea libero.</p>
       <p className={styles.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente in vel optio, exercitationem necessitatibus ad, sit laborum esse accusantium ducimus voluptates harum officia? Perspiciatis aliquam accusantium quas, magnam ea libero.</p>
